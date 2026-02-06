@@ -9,13 +9,16 @@
 
 
 - 🌱 I’m currently learning
-   **Java and DBMS **
+   Java and DBMS
 
 - 🧑‍🎓 I’m an Undergraduate at SUSL
 
-- 📫 How to reach me **sithuminirathnayaka@gmail.com**
+- 📫 How to reach me **sithuminirathnayaka3@gmail.com**
 
 - ⚡ Fun fact **call me as sithu**
+
+
+
 
 
 ---
