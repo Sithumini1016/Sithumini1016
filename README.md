@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithumini Rathnayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumini1016&label=Profile%20views&color=0e75b6&style=flat" alt="sithumini1016" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithumini1016&label=Profile%20views&color=0e75b6&style=flat" alt="sithumini1016" /> </p>
 
 - 🌱 I’m currently learning
 -  **Html,css,Java script,Type script,c,java,mysql, Git & GitHub**
